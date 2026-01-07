@@ -63,7 +63,9 @@ For queries, contact: **sangamshedge@gmail.com**
 - Username is "admin@gmail.com"
 - Password is "123456"
 - Add, edit, delete hotel, users and their actions
+
 **Hotel Admin**
 - Add, edit, delete rooms
+
 **User**
 - Preview, book rooms and review hotel
