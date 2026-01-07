@@ -58,3 +58,12 @@ A complete Hotel Booking Management System that allows users to browse hotels, c
 ## 📧 Contact
 For queries, contact: **sangamshedge@gmail.com**
 
+## 🛠️ Structure
+**Admin**
+- Username is "admin@gmail.com"
+- Password is "123456"
+- Add, edit, delete hotel, users and their actions
+**Hotel Admin**
+- Add, edit, delete rooms
+**User**
+- Preview, book rooms and review hotel
